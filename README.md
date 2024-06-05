@@ -34,3 +34,9 @@ Abordamos os diagramas do sistema, incluindo o diagrama de atividades, o diagram
 <br>
 link Documento de Requisitos pdf
 </br>
+
+<br>
+
+<a href="https://github.com/GiovanaMerces">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=purple" /><img src="https://media1.tenor.com/m/MAY07BXjn00AAAAC/sasha-cyberpunk.gif" />
+</a>
