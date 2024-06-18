@@ -2,7 +2,7 @@
    <h1>🛎HABBO UFRA🛎</h1>
 </div>
 
-A seguir, apresentamos a idealização de um software de hospedagem para hotéis, com base nos princípios estudados em Engenharia de Software I.
+ A seguir, apresentamos a idealização de um software de gestão de hospedagem para hotéis, fundamentado nos princípios e técnicas estudados em Engenharia de Software I. Este projeto explora as melhores práticas para o desenvolvimento de sistemas, incluindo a análise de requisitos, diagramas de arquitetura, com o objetivo de criar uma solução eficiente, intuitiva e escalável para a administração hoteleira.
 
 ---
 <br>
@@ -46,6 +46,13 @@ Todos os diagramas foram elaborados utilizando as ferramentas *Draw.io e Lucidch
 <br>
 link Documento de Requisitos pdf
 </br>
+
+---
+
+## *Próximos passos*
+* *design e wireframes.*
+* *Implementação e testes.*
+* *Protótipo.*
 
 <br>
 
