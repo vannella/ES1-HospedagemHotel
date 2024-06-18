@@ -49,10 +49,15 @@ link Documento de Requisitos pdf
 
 ---
 
-## *Próximos passos*
+![gif](https://media1.tenor.com/m/r06sG3wHKrEAAAAC/habbo-nft.gif)
+
+## *Próximos passos* 
 * *design e wireframes.*
 * *Implementação e testes.*
 * *Protótipo.*
+
+
+
 
 <br>
 
