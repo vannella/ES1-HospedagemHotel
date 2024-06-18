@@ -17,7 +17,7 @@
 </div>
 
 
-O Sistema de Reservas de Hotel HabboUfra é uma plataforma online criada para transformar a forma como as pessoas reservam hotéis. Desenvolvido para simplificar e melhorar o processo de reserva, o sistema oferece uma experiência intuitiva e dinâmica para viajantes e hotéis. HabboUfra não é apenas uma plataforma de reserva, mas uma solução completa para planejar viagens e gerenciar reservas de hotéis.
+O Sistema de Reservas de **Hotel HabboUfra é uma plataforma online** criada para transformar a forma como as pessoas **reservam hotéis**. Desenvolvido para simplificar e melhorar o processo de reserva, o sistema oferece uma experiência intuitiva e dinâmica para viajantes e hotéis. HabboUfra não é apenas uma plataforma de reserva, mas uma solução completa para planejar viagens e gerenciar reservas de hotéis.
 
 <div align="center">
   <h2>Objetivo</h2>
