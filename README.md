@@ -1,4 +1,4 @@
-<img src="https://github.com/GiovanaMerces/GiovanaMerces/blob/af84c6e36f857bfa2b734d5f0fe8edc35790a9e1/_banner%20github.gif">
+<img src="https://github.com/GiovanaMerces/ES1-HospedagemHotel/blob/d4672a607207c9e8dda79f799883052ab1a05c8c/_banner%20github.png">
 
 
  A seguir, apresentamos a idealização de um software de gestão de hospedagem para hotéis, fundamentado nos princípios e técnicas estudados em Engenharia de Software I. Este projeto explora as melhores práticas para o desenvolvimento de sistemas, incluindo a análise de requisitos, diagramas de arquitetura, com o objetivo de criar uma solução eficiente, intuitiva e escalável para a administração hoteleira.
@@ -48,16 +48,10 @@ link Documento de Requisitos pdf
 
 ---
 
-![gif](https://media1.tenor.com/m/r06sG3wHKrEAAAAC/habbo-nft.gif)
-
 ## *Próximos passos* 
 * *design e wireframes.*
 * *Implementação e testes.*
 * *Protótipo.*
-
-
-
-
 <br>
 
 <a href="https://github.com/GiovanaMerces">
