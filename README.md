@@ -1,6 +1,5 @@
-<div align="center">
-   <h1>🛎HABBO UFRA🛎</h1>
-</div>
+<img src="https://github.com/GiovanaMerces/GiovanaMerces/blob/af84c6e36f857bfa2b734d5f0fe8edc35790a9e1/_banner%20github.gif">
+
 
  A seguir, apresentamos a idealização de um software de gestão de hospedagem para hotéis, fundamentado nos princípios e técnicas estudados em Engenharia de Software I. Este projeto explora as melhores práticas para o desenvolvimento de sistemas, incluindo a análise de requisitos, diagramas de arquitetura, com o objetivo de criar uma solução eficiente, intuitiva e escalável para a administração hoteleira.
 
