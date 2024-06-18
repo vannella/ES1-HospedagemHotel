@@ -3,6 +3,13 @@
 
  A seguir, apresentamos a idealização de um software de gestão de hospedagem para hotéis, fundamentado nos princípios e técnicas estudados em Engenharia de Software I. Este projeto explora as melhores práticas para o desenvolvimento de sistemas, incluindo a análise de requisitos, diagramas de arquitetura, com o objetivo de criar uma solução eficiente, intuitiva e escalável para a administração hoteleira.
 
+**📝Equipe Responsável**
+* Giovana Fernanda 
+* Keila Jadiely 
+* Kaylane Sophia 
+* Miqueias Furtado 
+* Thiago André
+  
 ---
 <br>
 <div align="center">
@@ -19,31 +26,39 @@ O Sistema de Reservas de Hotel HabboUfra é uma plataforma online criada para tr
 Aprimorar a experiência de reserva de hotéis, simplificando o processo e minimizando complicações. A plataforma visa proporcionar uma interação produtiva e satisfatória para clientes e hotéis, oferecendo uma interface intuitiva, suporte total ao cliente e ferramentas para maximizar a ocupação e desempenho dos hotéis.
 
 <br>
-link Visão Geral do Sistema pdf
+
+[veja aqui a Visão Geral do Sistema](https://drive.google.com/file/d/19OPIhknGs_YFVG75ebdw2-baJWTS_qoQ/view?usp=sharing)
+
 </br>
 
-<div align="center">
-  <h2>Documento de Requisitos</h2>
-</div>
 
-*  Mapeamento dos requisitos funcionais para os atores envolvidos.
-*  Casos de uso.
-  
+<h2>Documento de Requisitos</h2>
+
+
+| Mapeamento dos requisitos funcionais para os atores envolvidos. |
+|-----------------------------------------------------------------|
+| Casos de uso.                                                   |
+
 <br>
-link Documento de Requisitos pdf
+
+[aqui Documento de Requisitos](https://drive.google.com/file/d/19PToOn0HTg1EZSQxvfxrinCzdcHsgdo-/view?usp=sharing)
+
 </br>
 
-<div align="center">
-  <h2>Diagramas do Sistema</h2>
-</div>
+
+<h2>Diagramas do Sistema</h2>
 
 Todos os diagramas foram elaborados utilizando as ferramentas *Draw.io e Lucidchart.*
-* Diagrama de atividades.
-* Diagrama de classes.
-* Diagrama de sequência.
+
+|  Diagrama de atividades.  |
+|---------------------------|
+|  Diagrama de classes.     |
+|  Diagrama de sequência.   |
   
 <br>
-link Documento de Requisitos pdf
+
+[aqui Documento de Requisitos](https://drive.google.com/file/d/19V53QaK-Y-TvZwXU5QBlP7q2pn14H0YT/view?usp=sharing)
+
 </br>
 
 ---
