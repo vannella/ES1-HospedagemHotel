@@ -1,7 +1,15 @@
 <div align="center">
    <h1>🛎HABBO UFRA🛎</h1>
+</div>
+
+A seguir, apresentamos a idealização de um software de hospedagem para hotéis, com base nos princípios estudados em Engenharia de Software I.
+
+---
+<br>
+<div align="center">
   <h2>Visão Geral do Sistema</h2>
 </div>
+
 
 O Sistema de Reservas de Hotel HabboUfra é uma plataforma online criada para transformar a forma como as pessoas reservam hotéis. Desenvolvido para simplificar e melhorar o processo de reserva, o sistema oferece uma experiência intuitiva e dinâmica para viajantes e hotéis. HabboUfra não é apenas uma plataforma de reserva, mas uma solução completa para planejar viagens e gerenciar reservas de hotéis.
 
@@ -19,8 +27,9 @@ link Visão Geral do Sistema pdf
   <h2>Documento de Requisitos</h2>
 </div>
 
-O Documento de Requisitos abrange o mapeamento dos requisitos funcionais para os atores envolvidos, detalhando esses requisitos através de casos de uso e diagramas de casos de uso, alinhados à visão geral do sistema.
-
+*  Mapeamento dos requisitos funcionais para os atores envolvidos.
+*  Casos de uso.
+  
 <br>
 link Documento de Requisitos pdf
 </br>
@@ -29,8 +38,11 @@ link Documento de Requisitos pdf
   <h2>Diagramas do Sistema</h2>
 </div>
 
-Abordamos os diagramas do sistema, incluindo o diagrama de atividades, o diagrama de classes e o diagrama de sequência. Todos os diagramas foram elaborados utilizando as ferramentas Draw.io e Lucidchart.
-
+Todos os diagramas foram elaborados utilizando as ferramentas *Draw.io e Lucidchart.*
+* Diagrama de atividades.
+* Diagrama de classes.
+* Diagrama de sequência.
+  
 <br>
 link Documento de Requisitos pdf
 </br>
