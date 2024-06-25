@@ -61,7 +61,6 @@ Todos os diagramas foram elaborados utilizando as ferramentas *Draw.io e Lucidch
 
 </br>
 
----
 
 ## *Próximos passos* 
 * *design e wireframes.*
@@ -69,8 +68,13 @@ Todos os diagramas foram elaborados utilizando as ferramentas *Draw.io e Lucidch
 * *Protótipo.*
 <br>
 
-Livre para sugestões 📬 
+---
 
-<a href="https://github.com/GiovanaMerces">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=purple" /><img src="https://media1.tenor.com/m/MAY07BXjn00AAAAC/sasha-cyberpunk.gif" />
-</a>
+Este projeto foi colocado neste repositório com o propósito de compartilhar conhecimento e conteúdo sobre engenharia de software. Convidamos a comunidade a explorar, aprender e contribuir com sugestões ou dicas. Estamos comprometidos com a melhoria contínua e, por isso, qualquer feedback será bem-vindo.
+
+Este projeto terá seguimento com uma segunda parte, onde continuaremos a expandir e aprimorar suas funcionalidades. Fico feliz em receber seus comentários e contribuições, que serão fundamentais para o sucesso e evolução deste software.
+
+<br>
+
+Autora: [Giovana Fernanda](https://github.com/GiovanaMerces)<br>
+Email: giovanafernanda930@gmail.com
