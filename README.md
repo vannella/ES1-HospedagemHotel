@@ -17,7 +17,7 @@
 </div>
 
 
-O Sistema de Reservas de **Hotel HabboUfra é uma plataforma online** criada para transformar a forma como as pessoas **reservam hotéis**. Desenvolvido para simplificar e melhorar o processo de reserva, o sistema oferece uma experiência intuitiva e dinâmica para viajantes e hotéis. HabboUfra não é apenas uma plataforma de reserva, mas uma solução completa para planejar viagens e gerenciar reservas de hotéis.
+O Sistema de Reservas de **Hotel HabboUfra é uma plataforma online** criada para transformar a forma como as pessoas **reservam hotéis**. Desenvolvido para simplificar e melhorar o processo de reserva, o sistema oferece uma experiência intuitiva e dinâmica para viajantes e hotéis. HabboUfra não é apenas uma plataforma de reserva, mas uma solução completa para **planejar viagens e gerenciar reservas de hotéis**.
 
 <div align="center">
   <h2>Objetivo</h2>
@@ -27,7 +27,7 @@ Aprimorar a experiência de reserva de hotéis, simplificando o processo e minim
 
 <br>
 
-[veja aqui a Visão Geral do Sistema](https://drive.google.com/file/d/19OPIhknGs_YFVG75ebdw2-baJWTS_qoQ/view?usp=sharing)
+👉🏻 veja aqui a [Visão Geral do Sistema](https://drive.google.com/file/d/19OPIhknGs_YFVG75ebdw2-baJWTS_qoQ/view?usp=sharing)
 
 </br>
 
@@ -41,7 +41,7 @@ Aprimorar a experiência de reserva de hotéis, simplificando o processo e minim
 
 <br>
 
-[aqui Documento de Requisitos](https://drive.google.com/file/d/19PToOn0HTg1EZSQxvfxrinCzdcHsgdo-/view?usp=sharing)
+👉🏻 aqui [Documento de Requisitos](https://drive.google.com/file/d/19PToOn0HTg1EZSQxvfxrinCzdcHsgdo-/view?usp=sharing)
 
 </br>
 
@@ -57,7 +57,7 @@ Todos os diagramas foram elaborados utilizando as ferramentas *Draw.io e Lucidch
   
 <br>
 
-[aqui Documento de Requisitos](https://drive.google.com/file/d/19V53QaK-Y-TvZwXU5QBlP7q2pn14H0YT/view?usp=sharing)
+👉🏻 aqui [Diagramas do Sistema](https://drive.google.com/file/d/19V53QaK-Y-TvZwXU5QBlP7q2pn14H0YT/view?usp=sharing)
 
 </br>
 
