@@ -76,5 +76,4 @@ Este projeto terá seguimento com uma segunda parte, onde continuaremos a expand
 
 <br>
 
-Autora: [Giovana Fernanda](https://github.com/GiovanaMerces)<br>
-Email: giovanafernanda930@gmail.com
+Autora: [Giovana Fernanda](https://github.com/GiovanaMerces)
