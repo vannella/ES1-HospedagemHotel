@@ -2,13 +2,17 @@
 
 
  A seguir, apresentamos a idealização de um software de gestão de hospedagem para hotéis, fundamentado nos princípios e técnicas estudados em Engenharia de Software I. Este projeto explora as melhores práticas para o desenvolvimento de sistemas, incluindo a análise de requisitos, diagramas de arquitetura, com o objetivo de criar uma solução eficiente, intuitiva e escalável para a administração hoteleira.
+ 
+ <br>
 
-**📝Equipe Responsável**
-* Giovana Fernanda 
-* Keila Jadiely 
-* Kaylane Sophia 
-* Miqueias Furtado 
-* Thiago André
+| **📝Equipe Responsável** | **Funções**                                             |
+|--------------------------|---------------------------------------------------------|
+| **Giovana Fernanda**     | Documentos de requisitos / Diagramas do sistema          |
+| **Keila Jadiely**        | Visão geral do sistema / Documentos de requisitos       |
+| **Kaylane Sophia**       | Visão geral do sistema / Documentos de requisitos / Diagrama do sistema |
+| **Miqueias Furtado**     | Visão geral do sistema / Documentos de requisitos        |
+| **Thiago André**         | Visão geral do sistema / Diagrama do sistema            |
+
   
 ---
 <br>
