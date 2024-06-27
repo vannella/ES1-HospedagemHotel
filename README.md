@@ -5,13 +5,17 @@
  
  <br>
 
-| **📝Equipe Responsável** | **Funções**                                             |
-|--------------------------|---------------------------------------------------------|
-| **Giovana Fernanda**     | Documentos de requisitos / Diagramas do sistema          |
-| **Keila Jadiely**        | Visão geral do sistema / Documentos de requisitos       |
-| **Kaylane Sophia**       | Visão geral do sistema / Documentos de requisitos / Diagrama do sistema |
-| **Miqueias Furtado**     | Visão geral do sistema / Documentos de requisitos        |
-| **Thiago André**         | Visão geral do sistema / Diagrama do sistema            |
+<div align="center">
+
+|   **📝 Equipe Responsável**   |
+|-------------------------------|
+| 🎨 - **Giovana Fernanda**     |
+| 🖊  - **Keila Jadiely**        |
+| 🖊  - **Kaylane Sophia**       |
+| 💻  - **Miqueias Furtado**     |
+| 🎨 - **Thiago André**         |
+
+</div>
 
   
 ---
