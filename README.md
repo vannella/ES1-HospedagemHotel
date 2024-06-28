@@ -72,6 +72,7 @@ Todos os diagramas foram elaborados utilizando as ferramentas *Draw.io e Lucidch
 
 ## *Próximos passos* 
 * *design e wireframes.*
+* *Códigos / programação*
 * *Implementação e testes.*
 * *Protótipo.*
 <br>
