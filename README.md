@@ -1,4 +1,4 @@
-<img src="https://github.com/GiovanaMerces/ES1-HospedagemHotel/blob/d4672a607207c9e8dda79f799883052ab1a05c8c/_banner%20github.png">
+<img src="https://github.com/Vannella/ES1-HospedagemHotel/blob/d4672a607207c9e8dda79f799883052ab1a05c8c/_banner%20github.png">
 
 
  A seguir, apresentamos a idealização de um software de gestão de hospedagem para hotéis, fundamentado nos princípios e técnicas estudados em Engenharia de Software I. Este projeto explora as melhores práticas para o desenvolvimento de sistemas, incluindo a análise de requisitos, diagramas de arquitetura, com o objetivo de criar uma solução eficiente, intuitiva e escalável para a administração hoteleira.
@@ -88,4 +88,4 @@ Este projeto terá seguimento com uma **segunda parte**, onde continuaremos a ex
 
 <br>
 
-Autora: [Giovana Fernanda](https://github.com/GiovanaMerces)
+Autora: [Giovana Fernanda](https://github.com/Vannella)
