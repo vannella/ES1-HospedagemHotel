@@ -83,9 +83,11 @@ Todos os diagramas foram elaborados utilizando as ferramentas *Draw.io e Lucidch
 
 ### 👍🏻 Sobre este Repositório...
 
-Este projeto foi colocado neste repositório com o propósito de **compartilhar conhecimento e conteúdo sobre engenharia de software.** Convidamos a comunidade a explorar, aprender e **contribuir com sugestões ou dicas**. Estamos comprometidos com a melhoria contínua e, por isso, qualquer feedback será bem-vindo. 📬
+Este projeto foi adicionado ao repositório com o propósito de **compartilhar conhecimento e conteúdo sobre engenharia de software.** Convidamos toda a comunidade a explorar, aprender e contribuir com sugestões ou dicas. Estamos comprometidos com a melhoria contínua, portanto, qualquer feedback será muito apreciado. 📬
 
-Este projeto terá seguimento com uma **segunda parte**, onde continuaremos a expandir e aprimorar suas funcionalidades. Ficarei feliz em receber seus comentários e contribuições, que serão fundamentais para o sucesso e evolução deste software.
+Além disso, planejamos uma **segunda parte** onde expandiremos e aprimoraremos as funcionalidades deste projeto.  <br>
+
+Se você se interessou, sinta-se à vontade para **participar da nossa discussão neste repositório.** Estamos ansiosos para ouvir suas ideias e colaborar no desenvolvimento futuro deste projeto!
 
 <br>
 
