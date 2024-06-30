@@ -87,7 +87,7 @@ Este projeto foi adicionado ao repositório com o propósito de **compartilhar c
 
 Além disso, planejamos uma **segunda parte** onde expandiremos e aprimoraremos as funcionalidades deste projeto.  <br>
 
-Se você se interessou, sinta-se à vontade para **participar da nossa discussão neste repositório.** Estamos ansiosos para ouvir suas ideias e colaborar no desenvolvimento futuro deste projeto!
+Se você se interessou, sinta-se à vontade para **participar da nossa [discussão](https://github.com/vannella/ES1-HospedagemHotel/discussions) neste repositório.** Estamos ansiosos para ouvir suas ideias e colaborar no desenvolvimento futuro deste projeto!
 
 <br>
 
