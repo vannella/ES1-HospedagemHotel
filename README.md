@@ -69,8 +69,13 @@ Todos os diagramas foram elaborados utilizando as ferramentas *Draw.io e Lucidch
 
 </br>
 
+ ## 💡 Curiosidade: 
 
-## *Próximos passos* 
+O nome deste software, Habbo Ufra, é inspirado no célebre jogo Habbo Hotel, um famoso jogo de mundo virtual que se apresenta na forma de um hotel com estética pixelada. A ideia inicial era desenvolver as telas do software com base na estética única e nostálgica do Habbo Hotel, incorporando elementos visuais pixelados que remetem ao estilo retrô e à sensação de comunidade presente no jogo original.
+
+<br>
+
+## 🛠 *Próximos passos* 
 * *design e wireframes.*
 * *Códigos / programação*
 * *Implementação e testes.*
