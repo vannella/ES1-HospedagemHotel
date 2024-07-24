@@ -91,4 +91,13 @@ Se você se interessou, sinta-se à vontade para **participar da nossa [discuss�
 
 <br>
 
-Autora: [Giovana Fernanda](https://github.com/Vannella)
+<div align="center">
+<h5>Feito por Vana💜</h5>
+ <a href="https://github.com/Vannella">
+      <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=purple" alt="GitHub">
+   </a>
+   
+   <a href="https://giovanavannela@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=purple" alt="email"/><br>
+   </a>
+</div>
