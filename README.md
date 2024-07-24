@@ -1,7 +1,7 @@
 <img src="https://github.com/vannella/ES1-HospedagemHotel/blob/ce185c974cb8a892e11aa888b4fd6b88689d0e5c/_banner%20github%203%20(4).gif">
 
 
- A seguir, apresentamos a idealização de um **software de gestão de hospedagem para hotéis**, fundamentado nos princípios e técnicas estudados em Engenharia de Software I. Este projeto explora as melhores práticas para o desenvolvimento de sistemas, incluindo a análise de requisitos, diagramas de arquitetura, com o objetivo de criar uma solução eficiente, intuitiva e escalável para a administração hoteleira.
+ A seguir, apresentamos a idealização de um **software de gestão de hospedagem para hotéis**, fundamentado nos princípios e técnicas estudados em Engenharia de Software I. Este projeto explora as melhores práticas para o desenvolvimento de sistemas, incluindo a análise de requisitos, diagramas de arquitetura, com o objetivo de criar uma solução eficiente, intuitiva e escalável para a administração hoteleira. Este é a **primeira parte do projeto**, idealização.
  
  <br>
 
@@ -90,7 +90,7 @@ O nome deste software, Habbo Ufra, é inspirado no célebre jogo Habbo Hotel, um
 
 Este projeto foi adicionado ao repositório com o propósito de **compartilhar conhecimento e conteúdo sobre engenharia de software.** Convidamos toda a comunidade a explorar, aprender e contribuir com sugestões ou dicas. Estamos comprometidos com a melhoria contínua, portanto, qualquer feedback será muito apreciado. 📬
 
-Além disso, planejamos uma **segunda parte** onde expandiremos e aprimoraremos as funcionalidades deste projeto.  <br>
+📌 Além disso, planejamos uma **segunda parte** onde expandiremos e aprimoraremos as funcionalidades deste projeto.  <br>
 
 Se você se interessou, sinta-se à vontade para **participar da nossa [discussão](https://github.com/vannella/ES1-HospedagemHotel/discussions) neste repositório.** Estamos ansiosos para ouvir suas ideias e colaborar no desenvolvimento futuro deste projeto!
 
