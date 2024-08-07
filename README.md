@@ -8,11 +8,11 @@
 <div align="center">
 
 |   **📝 Equipe Responsável**   |
-|-------------------------------|
-| 🎨 - **Giovana Fernanda**     |
+|-------------------------------|    
 | 🖊  - **Keila Jadiely**        |
 | 🖊  - **Kaylane Sophia**       |
 | 💻  - **Miqueias Furtado**     |
+| 🎨 - **Giovana Fernanda**     |
 | 🎨 - **Thiago André**         |
 
 </div>
