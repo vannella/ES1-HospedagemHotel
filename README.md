@@ -5,19 +5,8 @@
  
  <br>
 
-<div align="center">
 
-|   **📝 Equipe Responsável**   |
-|-------------------------------|    
-| 🖊  - **Keila Jadiely**        |
-| 🖊  - **Kaylane Sophia**       |
-| 💻  - **Miqueias Furtado**     |
-| 🎨 - **Giovana Fernanda**     |
-| 🎨 - **Thiago André**         |
-
-</div>
-
-  
+ 
 ---
 <br>
 <div align="center">
